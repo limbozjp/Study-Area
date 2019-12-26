@@ -220,7 +220,6 @@ input[type="reset"],
 input[type="button"],
 button {
   -webkit-appearance: none;
-  -webkit-border-radius: 0;
 }
 
 input[type="checkbox"] {
@@ -248,7 +247,6 @@ input[type="search"]::-webkit-search-cancel-button {
 }
 
 img {
-  vertical-align: middle;
   display: block;
   /* width: 100%; */
   height: 100%;
