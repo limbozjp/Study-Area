@@ -1,0 +1,60 @@
+{
+    "name" : "每日积累数据",
+    "dailyLearnData" : [    
+        {
+            "date": "2019-05-22",
+            "intro": "flex布局教程第一节",
+            "url" : "http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html",
+            "content" : "",
+            "image" : ""
+        },{
+            "date": "2019-05-22",
+            "intro": "flex布局教程第二节",
+            "url" : "http://www.ruanyifeng.com/blog/2015/07/flex-examples.html",
+            "content" : "",
+            "image" : ""
+        },{
+            "date": "2019-05-22",
+            "intro": "flex布局中，保持内容不超出容器的解决办法",
+            "url" : "https://blog.csdn.net/zgh0711/article/details/78270555",
+            "content" : "",
+            "image" : ""
+        },{
+            "date": "2019-05-28",
+            "intro": "Vue自定义全局组件",
+            "url" : "https://www.cnblogs.com/alantao/p/8485114.html",
+            "content" : "详见项目MyCode组件,该组件适用于项目当中重复内容",
+            "image" : ""
+        },{
+            "date": "2019-05-28",
+            "intro": "Vue自定义全局调用组件",
+            "url" : "https://segmentfault.com/a/1190000012064199",
+            "content" : "该方法适用于项目中制作UI组件",
+            "image" : ""
+        },{
+            "date": "2019-06-14",
+            "intro": "map, some, every, forEach 用法总结",
+            "url" : "https://blog.csdn.net/weixin_36934930/article/details/81061063",
+            "content" : "通过遍历确定是否存在某个值",
+            "image" : ""
+        },{
+            "date": "2019-07-02",
+            "intro": "reduce()方法",
+            "url" : "https://www.runoob.com/jsref/jsref-reduce.html",
+            "content" : "reduce() 方法接收一个函数作为累加器，数组中的每个值（从左到右）开始缩减，最终计算为一个值。",
+            "image" : ""
+        },{
+            "date": "2019-07-02",
+            "intro": "DOMPurify对HTML进行净化，并防止XSS攻击",
+            "url" : "https://github.com/cure53/DOMPurify",
+            "content" : "DOMPurify sanitizes HTML and prevents XSS attacks",
+            "image" : ""
+        },{
+            "date": "2016-05-04",
+            "intro": "王小虎",
+            "url" : "",
+            "content" : "王小虎王小虎王小虎王小虎王小虎王小虎王小虎王小虎",
+            "image" : "limbo"
+        }
+    ]
+}
